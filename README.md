@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi there 👋, I'm Vishal
 
-<!--
-**Vishal-1962/Vishal-1962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I enjoy solving problems, building software, and continuously improving my development skills. My primary focus is on Data Structures & Algorithms, Software Development, and Database Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Final Year Computer Science Engineering Student
+* 💻 Strong foundation in C++, Python, and SQL
+* 📚 Regularly practicing Data Structures and Algorithms
+* 🌱 Currently improving my Software Development skills
+* 🔍 Interested in Backend Development, Databases, and Problem Solving
+* 🎯 Working towards becoming a Software Engineer
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+* C++
+* Python
+* SQL
+
+### Web Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* MySQL
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* Database Optimization
+* Backend Development
+* System Design Fundamentals
+
+---
+
+## 📂 Featured Projects
+
+### Project 1
+
+Brief description of your project.
+
+### Project 2
+
+Brief description of your project.
+
+### Project 3
+
+Brief description of your project.
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-1962\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-1962\&layout=compact\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vishal-1962)
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/vishal-jadhav2005
+
+---
+
+
