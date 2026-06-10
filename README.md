@@ -51,17 +51,29 @@ I enjoy solving problems, building software, and continuously improving my devel
 
 ## 📂 Featured Projects
 
-### Project 1
+## 📂 Featured Projects
 
-Brief description of your project.
+### 🎬 C Movie Recommender
 
-### Project 2
+A console-based movie recommendation system developed using pure C. The project focuses on fundamental programming concepts such as data structures, file handling, user interaction, and logical problem-solving.
 
-Brief description of your project.
+**Tech Stack:** C
 
-### Project 3
+---
 
-Brief description of your project.
+### 📸 Photography Portfolio Website
+
+A responsive portfolio website showcasing photography work and creative projects. Built to strengthen front-end development skills while creating a professional online presence.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### 💼 Placement Web Application
+
+A web-based platform designed to simplify placement-related activities and information management. The project helped me gain hands-on experience with modern web development concepts and user-focused design.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
