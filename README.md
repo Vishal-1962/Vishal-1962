@@ -1,29 +1,29 @@
-# Hi there 👋, I'm Vishal
+# Hi, I'm Vishal 👋
 
 ### Final Year Computer Science Engineering Student
 
-I enjoy solving problems, building software, and continuously improving my development skills. My primary focus is on Data Structures & Algorithms, Software Development, and Database Systems.
+I enjoy building software, solving algorithmic problems, and learning how systems work under the hood. My current focus is on C++, backend development, computer networks, databases, and system design.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Final Year Computer Science Engineering Student
+* 🎓 Final Year CSE Student
 * 💻 Primarily working with C++, Python, and SQL
-* 📚 Regularly practicing Data Structures and Algorithms
-* 🌱 Currently improving my Software Development skills
-* 🔍 Interested in Backend Development, Databases, and Problem Solving
-* 🎯 Working towards becoming a Software Engineer
+* 🌱 Currently learning Backend Development and System Design
+* 🔍 Interested in Software Engineering, Computer Networks, and Databases
+* 🎯 Aspiring Software Engineer
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills
 
 ### Languages
 
 * C++
 * Python
 * SQL
+* C
 
 ### Web Technologies
 
@@ -31,7 +31,7 @@ I enjoy solving problems, building software, and continuously improving my devel
 * CSS
 * JavaScript
 
-### Tools & Platforms
+### Tools
 
 * Git
 * GitHub
@@ -40,53 +40,11 @@ I enjoy solving problems, building software, and continuously improving my devel
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub Activity
 
-* Advanced Data Structures & Algorithms
-* Database Optimization
-* Backend Development
-* System Design Fundamentals
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-1962\&show_icons=true\&hide_border=true\&count_private=true)
 
----
-## 📂 Featured Projects
-
-### 🌐 Multithreaded Web Server
-
-A multithreaded HTTP web server built in C++ from scratch. Supports request handling, routing, static file serving, and concurrent client connections using modern C++ concepts.
-
-**Tech Stack:** C++, Networking, Multithreading
-
----
-
-### 🎬 C Movie Recommender
-
-A console-based movie recommendation system developed using pure C. The project focuses on programming fundamentals, file handling, and logical problem-solving.
-
-**Tech Stack:** C
-
----
-
-### 💼 Placement Web Application
-
-A web-based platform designed to simplify placement-related activities and information management.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### 📸 Photography Portfolio Website
-
-A responsive portfolio website showcasing photography work and creative projects.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-1962&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-1962&layout=compact&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-1962\&layout=compact\&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vishal-1962)
 
@@ -94,8 +52,8 @@ A responsive portfolio website showcasing photography work and creative projects
 
 ## 🤝 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/vishal-jadhav2005
+* LinkedIn: https://www.linkedin.com/in/vishal-jadhav2005
 
 ---
 
-
+> Building projects, learning continuously, and improving one commit at a time.
