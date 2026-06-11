@@ -9,7 +9,7 @@ I enjoy solving problems, building software, and continuously improving my devel
 ## 🚀 About Me
 
 * 🎓 Final Year Computer Science Engineering Student
-* 💻 Strong foundation in C++, Python, and SQL
+* 💻 Primarily working with C++, Python, and SQL
 * 📚 Regularly practicing Data Structures and Algorithms
 * 🌱 Currently improving my Software Development skills
 * 🔍 Interested in Backend Development, Databases, and Problem Solving
@@ -50,25 +50,33 @@ I enjoy solving problems, building software, and continuously improving my devel
 ---
 ## 📂 Featured Projects
 
+### 🌐 Multithreaded Web Server
+
+A multithreaded HTTP web server built in C++ from scratch. Supports request handling, routing, static file serving, and concurrent client connections using modern C++ concepts.
+
+**Tech Stack:** C++, Networking, Multithreading
+
+---
+
 ### 🎬 C Movie Recommender
 
-A console-based movie recommendation system developed using pure C. The project focuses on fundamental programming concepts such as data structures, file handling, user interaction, and logical problem-solving.
+A console-based movie recommendation system developed using pure C. The project focuses on programming fundamentals, file handling, and logical problem-solving.
 
 **Tech Stack:** C
 
 ---
 
-### 📸 Photography Portfolio Website
+### 💼 Placement Web Application
 
-A responsive portfolio website showcasing photography work and creative projects. Built to strengthen front-end development skills while creating a professional online presence.
+A web-based platform designed to simplify placement-related activities and information management.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
-### 💼 Placement Web Application
+### 📸 Photography Portfolio Website
 
-A web-based platform designed to simplify placement-related activities and information management. The project helped me gain hands-on experience with modern web development concepts and user-focused design.
+A responsive portfolio website showcasing photography work and creative projects.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
@@ -76,9 +84,9 @@ A web-based platform designed to simplify placement-related activities and infor
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-1962\&show_icons=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-1962&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-1962\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-1962&layout=compact&hide_border=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vishal-1962)
 
