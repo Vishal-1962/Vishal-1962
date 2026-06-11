@@ -1,59 +1,106 @@
-# Hi, I'm Vishal 👋
+# Vishal Jadhav
 
-### Final Year Computer Science Engineering Student
+```cpp
+while (!success)
+{
+    learn();
+    build();
+    fail();
+    debug();
+    improve();
+}
+```
 
-I enjoy building software, solving algorithmic problems, and learning how systems work under the hood. My current focus is on C++, backend development, computer networks, databases, and system design.
+Final Year Computer Science Engineering Student
+
+I like building software and figuring out how things actually work behind the scenes. Lately, I've been spending most of my time learning C++, solving problems, and working on projects that help me understand backend development, computer networks, and databases better.
 
 ---
 
-## 🚀 About Me
+## Building What I Use
 
-* 🎓 Final Year CSE Student
-* 💻 Primarily working with C++, Python, and SQL
-* 🌱 Currently learning Backend Development and System Design
-* 🔍 Interested in Software Engineering, Computer Networks, and Databases
-* 🎯 Aspiring Software Engineer
+### Multithreaded Web Server (C++)
+
+A web server built from scratch to understand the mechanics behind modern web applications.
+
+Current areas of exploration:
+
+* Socket Programming
+* HTTP Request Processing
+* Concurrent Client Handling
+* Multithreading
+* Routing
+* Static File Serving
+* Logging & Error Handling
+
+The objective is simple:
+
+> Understand what happens between a browser request and a server response.
 
 ---
 
-## 🛠️ Skills
+## Featured Projects
+
+### ⚙️ Systems Project — Multithreaded Web Server
+
+Building an HTTP server from scratch using modern C++ to explore networking, concurrency, and backend fundamentals.
+
+### 🎬 Programming Project — C Movie Recommender
+
+A console-based recommendation system written in C, focused on data management, file handling, and problem solving.
+
+### 💼 Web Application — Placement Web
+
+A web application designed to simplify placement-related workflows and information management.
+
+### 📸 Creative Showcase — Photography Portfolio
+
+A responsive portfolio website showcasing photography and frontend development concepts.
+
+---
+
+## Tech Stack
 
 ### Languages
 
-* C++
-* Python
-* SQL
-* C
+```text
+C++        ████████████████████
+Python     ██████████████
+SQL        ████████████
+C          ██████████
+```
 
-### Web Technologies
+### Technologies
 
-* HTML
-* CSS
-* JavaScript
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* MySQL
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-1962\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-1962\&layout=compact\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vishal-1962)
+```text
+Git
+GitHub
+MySQL
+HTML
+CSS
+JavaScript
+```
 
 ---
 
-## 🤝 Connect With Me
+## Areas of Interest
 
-* LinkedIn: https://www.linkedin.com/in/vishal-jadhav2005
+* Backend Development
+* Computer Networks
+* Operating Systems
+* Database Systems
+* System Design
+* Software Engineering
 
 ---
 
-> Building projects, learning continuously, and improving one commit at a time.
+## Connect
+
+LinkedIn:
+https://www.linkedin.com/in/vishal-jadhav2005
+
+---
+
+> "Arise, awake, and stop not till the goal is reached."
+>
+> — Swami Vivekananda
