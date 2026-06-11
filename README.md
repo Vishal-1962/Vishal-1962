@@ -48,9 +48,6 @@ I enjoy solving problems, building software, and continuously improving my devel
 * System Design Fundamentals
 
 ---
-
-## 📂 Featured Projects
-
 ## 📂 Featured Projects
 
 ### 🎬 C Movie Recommender
